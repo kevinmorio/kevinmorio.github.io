@@ -7,7 +7,7 @@ categories: ebooks
 
 When exporting my annotations from my Kindle the other day, I noticed some interesting differences about what information is included in the process depending on the method used.
 
-## 1. Share to email on Kindle Scribe
+## Share to email on Kindle Scribe
 
 When opening the annotations on the Kindle Scribe, you can either send them to your account's email address or up to five other email addresses you can enter. I received my annotations almost instantly.
 
@@ -23,7 +23,7 @@ When the export limit (in this case 10%) is reached (after ~6969 words), only no
 - **Position type:** page
 - **Exported words:** ~6969
 
-## 2. Transfer "My Clippings.txt"
+## Transfer "My Clippings.txt"
 
 When you connect your Kindle to your computer, you find the `My Clippings.txt` file in the `documents` directory.
 
@@ -45,7 +45,7 @@ For some reason, the file contains several duplicates of almost identical highli
 - **Position type:** page + location
 - **Exported words:** ~5553
 
-## 3. Share on Kindle app (Android)
+## Share on Kindle app (Android)
 
 When opening the annotations on the Kindle app on Android, you can choose a citation style and export them by sharing a file.
 
