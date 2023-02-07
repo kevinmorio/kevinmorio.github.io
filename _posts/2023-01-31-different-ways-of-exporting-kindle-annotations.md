@@ -17,7 +17,7 @@ When the export limit (in this case 10%) is reached (after ~6969 words), only no
 
 **Summary**
 
-- **Includes handwritten notes:**: yes
+- **Includes handwritten notes:** yes
 - **Includes highlight color**: no
 - **Includes added date**: no
 - **Position type:** page
@@ -39,7 +39,7 @@ For some reason, the file contains several duplicates of almost identical highli
 
 **Summary**
 
-- **Includes handwritten notes:**: no
+- **Includes handwritten notes:** no
 - **Includes highlight color**: no
 - **Includes added date**: yes
 - **Position type:** page + location
@@ -55,7 +55,7 @@ When the export limit is reached (here after ~6934 words), only notes and bookma
 
 **Summary**
 
-- **Includes handwritten notes:**: no
+- **Includes handwritten notes:** no
 - **Includes highlight color**: yes
 - **Includes added date**: no
 - **Position type:** part + chapter + page
