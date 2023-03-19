@@ -2,7 +2,7 @@
 layout: post
 title:  "Different ways of exporting Kindle annotations"
 date:   2023-01-31 23:10:56 +0100
-categories: ebooks
+categories: posts
 ---
 
 When exporting my annotations from my Kindle the other day, I noticed some interesting differences about what information is included in the process depending on the method used.

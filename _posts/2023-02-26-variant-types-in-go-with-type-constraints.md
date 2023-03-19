@@ -2,7 +2,7 @@
 layout: post
 title:  "Variant Types in Go with Type Constraints"
 date:   2023-02-26 14:02:12 +0100
-categories: go
+categories: posts
 ---
 
 **Variant types,** also known as **tagged unions** or **sum types** are a feature of many programming languages both old (ALGOL 68) and new (Rust). A variable of a variant type can contain a value from a fixed set of types. A **tag** indicates which of the different types is in use.
