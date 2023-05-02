@@ -10,6 +10,9 @@ Instead of scrolling and jumping through the document, you can freely explore it
 The spatial layout allows you to annotate and connect ideas from multiple pages in an easy way.
 Zoom out and you get a bird’s-eye view on your marginalia and highlights.
 
+{:style="text-align:center; margin: 3rem 0;"}
+![Zoom Notes PDF Import](/assets/images/zoom-notes-pdf-import.png){:style="max-width: 24rem;"}
+
 Unfortunately, this feature is not available on all the different platforms and devices I use on a regular basis.
 For a platform-agnostic solution, we can rearrange the pages of a PDF directly and then use any PDF reader of our choice.
 
@@ -24,6 +27,9 @@ We can arrange the pages of a standard PDF document in a grid with `n` columns a
 ``` shell
 $ pdfjam in.pdf --nup nxm --outfile out.pdf
 ```
+
+{:style="text-align:center; margin: 3rem 0;"}
+![Zoom Notes PDF Import](/assets/images/pdfjam-pdf-grid.png){:style="max-width: 24rem;"}
 
 pdfjam uses A4 as its default paper size.
 If we want a different size, we can use the `--paper` or `--papersize` options.
