@@ -44,6 +44,12 @@ body {
   h6 {
     @include relative-font-size(1.0625);
   }
+
+  a {
+    text-decoration: underline;
+    text-underline-offset: .2rem;
+    text-decoration-color: rgba(255, 255, 255, .8);
+  }
 }
 
 /*
