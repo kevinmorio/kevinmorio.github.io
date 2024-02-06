@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Different ways of exporting Kindle annotations"
+title:  "Different Ways of Exporting Kindle Annotations"
 date:   2023-01-31 23:10:56 +0100
 categories: posts
 ---

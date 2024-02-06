@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Arranging PDF pages in a grid"
+title: "Arranging PDF Pages in a Grid"
 date: 2023-04-30 14:32:38 +0200
 categories: posts
 ---
