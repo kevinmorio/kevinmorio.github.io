@@ -43,6 +43,7 @@ minima:
 collections:
   notes:
     output: true
+    permalink: /:collection/:year/:month/:day/:title:output_ext
 
 header_pages:
   - posts.md
