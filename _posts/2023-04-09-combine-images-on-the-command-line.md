@@ -15,14 +15,14 @@ $ convert A.png B.png C.jpg -append ABC.png
 ```
 
 {:style="text-align:center;"}
-![ABC](../assets/images/ABC.png)
+![ABC](/assets/images/ABC.png)
 
 ``` shell
 $ convert A.png B.png C.jpg +append A-B-C.png
 ```
 
 {:style="text-align:center;"}
-![A-B-C](../assets/images/A-B-C.png)
+![A-B-C](/assets/images/A-B-C.png)
 
 The `-append` and `+append` flags can also be nested to lay out the images in a grid.
 
@@ -31,7 +31,7 @@ $ convert A.png B.png -append \( C.jpg D.jpg -append \) +append AC-BD.png
 ```
 
 {:style="text-align:center;"}
-![AC-BD](../assets/images/AC-BD.png)
+![AC-BD](/assets/images/AC-BD.png)
 
 If the dimensions of the images are not the same, they are expanded to fit using the background color.
 
@@ -40,7 +40,7 @@ $ convert -background "#333333" ABC.png D.jpg +append ABC-D.png
 ```
 
 {:style="text-align:center;"}
-![ABC-D](../assets/images/ABC-D.png)
+![ABC-D](/assets/images/ABC-D.png)
 
 ## References
 
