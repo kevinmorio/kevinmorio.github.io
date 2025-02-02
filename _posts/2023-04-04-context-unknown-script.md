@@ -2,6 +2,7 @@
 layout: post
 title: "ConTeXt: unknown script 'mtx-context.lua' or 'mtx-mtx-context.lua'"
 date:  2023-04-04 22:00:12 +0100
+categories: posts
 ---
 
 After updating the TexLive installation on macOS, I got the following error when trying to build a ConTeXt project.

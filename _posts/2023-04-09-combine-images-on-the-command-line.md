@@ -2,6 +2,7 @@
 layout: post
 title:  "Combine images on the command line"
 date:   2023-04-07 12:48:02 +0100
+categories: posts
 ---
 
 [ImageMagick's][IM] and [GraphicMagic's][GM] `convert` command can be used to combine multiple images into a single larger one.
