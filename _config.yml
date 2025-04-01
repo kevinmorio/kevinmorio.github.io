@@ -40,8 +40,8 @@ minima:
     - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=SCjhtukAAAAJ&hl=en&oi=ao" }
 
 header_pages:
-  - posts.md
-  - about.md
+  - 01_posts.md
+  - 02_about.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
